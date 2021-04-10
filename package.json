@@ -1,0 +1,19 @@
+{
+  "name": "html-date-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmohan20195/html-date-picker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmohan20195/html-date-picker/issues"
+  },
+  "homepage": "https://rmohan20195.github.io/html-date-picker/"
+}
